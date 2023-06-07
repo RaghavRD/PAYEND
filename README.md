@@ -14,7 +14,7 @@ Introducing the India Vix Price, a key indicator of market volatility, that has 
 
 
 
-## Screenshots
+## Screenshots :
 - PAYEND 2.1.3(Old version)-
 ![Preview](https://github.com/RaghavRD/PAYEND/assets/108291726/8fdaae69-27ad-4c23-96c8-23056ca26e4a)
 - PAYEND 4.7.6(New version)-
@@ -27,7 +27,7 @@ Introducing the India Vix Price, a key indicator of market volatility, that has 
 
 
 
-## Advantages
+## Advantages :
 - Informed Decision-Making: PAYEND equips traders with accurate upper and lower border predictions, incorporating India VIX as a key indicator of market volatility. This information allows users to make well-informed decisions based on reliable data, considering the dynamic nature of the market.
 
 - Time-Saving: By providing concise and reliable border predictions, PAYEND streamlines the process of analyzing market data. This saves traders valuable time and effort that can be redirected towards other investment-related activities.
@@ -38,12 +38,12 @@ Introducing the India Vix Price, a key indicator of market volatility, that has 
 
 
 
-## Note
+## Note :
 PAYEND's predictions are based on market trends, and the incorporation of India VIX. While the application strives to provide accurate information, investing and trading in the stock market always carries inherent risks. Users are advised to exercise caution, conduct their own research, and consider consulting with financial professionals before making any investment decisions.
 
 
 
-## Lessons Learned
+## Lessons Learned :
 During the development of the PAYEND project, several valuable lessons were learned that contributed to its successful completion. The journey involved overcoming challenges and making important decisions. Here are the key lessons learned throughout the project:
 
 - **Difficulty in Finding Market Live Data API**- One of the significant difficulties encountered during the development of PAYEND was the search for a reliable API to access market live data. Acquiring accurate and up-to-date data is crucial for making informed predictions. However, identifying a suitable API that met the project's requirements took a considerable amount of time. This experience highlighted the importance of thoroughly researching and exploring different API options early in the development process.
